@@ -2,6 +2,7 @@
  Introduction
    This is a beginner-level Python project for analyzing company reviews and complaints.
    The system takes a company name and a review from the user. It checks the review for positive and negative words,identifies the areas mentioned in the review, and gives suggestions for improvement.
+
 *Features
 - Enter a company name and review
 - Find positive points in the review
